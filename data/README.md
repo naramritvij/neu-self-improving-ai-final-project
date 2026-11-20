@@ -1,7 +1,6 @@
-# Bamboogle dataset
+# Bamboogle evaluation dataset
 
-Source: course-provided `Bamboogle Prerelease.xlsx`.
-
-The evaluation set has 125 question-answer rows. Keep this evaluation dataset separate from the Flow-GRPO training data to avoid leakage.
-
-Upload the original workbook here as `Bamboogle Prerelease.xlsx` when available. The file is not included in this commit.
+- `bamboogle.csv`: 125 question/answer pairs converted from the course-provided `Bamboogle Prerelease.xlsx` workbook, including the optional alternate answer column.
+- The original `.xlsx` file is not yet committed; CSV is the ready-to-use dataset in this repository.
+- The CSV preserves the spreadsheet's stored cell values. Some original date cells are Excel serial numbers rather than formatted dates; we should normalize those when implementing evaluation, without altering source ground truth silently.
+- **Do not train on these evaluation questions**: use separate training data for Flow-GRPO.
