@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Claude Code files: never commit
+CLAUDE.md
+CLAUDE.local.md
+.claude/
