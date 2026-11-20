@@ -36,6 +36,21 @@ Graded on **simplicity**: every line must be explainable in the walkthrough.
 
 **Interface contract:** `agentflow.py` only calls `llm.generate(...)`, and `flow_grpo.py` only calls `run_agentflow(...)`. As long as these signatures hold, we can work in parallel without touching each other's files.
 
+```python
+# src/agentflow.py (Ghouse)
+def run_agentflow(questions, max_turns=10, temperature=0.7, lora=None):
+    """Run the batched planner -> executor -> verifier loop, then the solution generator.
+
+    Only the planner uses `temperature` and `lora`; every other module and tool runs at temperature 0
+    on the base model (paper §C.1).
+    Returns one dict per question:
+        {"answer": str,                                    # solution generator output, scored by judge()
+         "turns": [{"prompt": str, "output": str}, ...]}   # each planner call; Flow-GRPO trains on these
+    """
+```
+
+`src/eval.py` already calls it: `modal run modal_app.py::eval_bamboogle --method agentflow --limit 5 --trials 1`.
+
 ## Timeline
 
 - **Thu Nov 20:** baseline row done (Ritvij). Tools and agent loop working on 5 questions (Ghouse).
