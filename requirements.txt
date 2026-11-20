@@ -1,1 +1,3 @@
-# Dependencies will be pinned after choosing the runtime and training implementation.
+# Local machine only: GPU dependencies are installed inside the Modal image (modal_app.py).
+modal==1.6.4
+openpyxl==3.1.5

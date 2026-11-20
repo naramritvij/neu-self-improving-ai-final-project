@@ -1,6 +1,6 @@
 # Bamboogle evaluation dataset
 
-- `bamboogle.csv`: 125 question/answer pairs converted from the course-provided `Bamboogle Prerelease.xlsx` workbook, including the optional alternate answer column.
-- The original `.xlsx` file is not yet committed; CSV is the ready-to-use dataset in this repository.
-- The CSV preserves the spreadsheet's stored cell values. Some original date cells are Excel serial numbers rather than formatted dates; we should normalize those when implementing evaluation, without altering source ground truth silently.
+- `Bamboogle Prerelease.xlsx`: the course-provided workbook (source of truth).
+- `bamboogle.csv`: 125 question/answer pairs generated from it with `python scripts/xlsx_to_csv.py`, including the optional alternate answer column (`answer_2`).
+- Excel stores some answers as dates or floats; the script formats them back to the text shown in the spreadsheet (e.g. `May 29, 1932`, `1999`).
 - **Do not train on these evaluation questions**: use separate training data for Flow-GRPO.
