@@ -5,9 +5,11 @@ Graded on **simplicity**: every line must be explainable in the walkthrough.
 
 | Row | Paper | Ours |
 |---|---|---|
-| Qwen-2.5-7B-Instruct (direct answer, no tools) | 12.0 | – |
+| Qwen-2.5-7B-Instruct (direct answer, no tools) | 12.0 | 14.9 ± 0.8 ¹ |
 | AgentFlow (frozen Qwen planner) | 58.4 | – |
 | AgentFlow w/ Flow-GRPO (LoRA planner) | 69.6 | – |
+
+¹ `results/direct.json`, 3 trials, judged by Qwen2.5-7B. The 7B judge is a bit lenient: in trial 1, 2 of its 18 "correct" verdicts were wrong ("1837" for "20 June 1837", and the son's name instead of the father's). With a strict judge this row would be about 13.
 
 ## Design (paper setting → our simplification)
 

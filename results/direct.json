@@ -1,0 +1,2641 @@
+{
+  "summary": {
+    "method": "direct",
+    "lora": null,
+    "n": 125,
+    "accuracies": [
+      14.4,
+      16.0,
+      14.4
+    ],
+    "mean": 14.933333333333334,
+    "std": 0.7542472332656506
+  },
+  "records": [
+    {
+      "trial": 0,
+      "question": "Who was president of the United States in the year that Citibank was founded?",
+      "truth": "james madison",
+      "response": "Theodore Roosevelt",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What rocket was the first spacecraft that ever approached Uranus launched on?",
+      "truth": "Titan IIIE",
+      "response": "Cassini-Huygens was launched on a Titan IVB rocket. However, this was not the spacecraft that approached Uranus. The spacecraft that approached Uranus was launched on an Atlas IIAS rocket.",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what year was the company that was founded as Sound of Music added to the S&P 500?",
+      "truth": "1999",
+      "response": "2016",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the first African American mayor of the most populous city in the United States?",
+      "truth": "David Dinkins",
+      "response": "David Dinkins",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "When did the last king from Britain's House of Hanover die?",
+      "truth": "20 June 1837",
+      "response": "1837",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "When did the president who set the precedent of a two term limit enter office?",
+      "truth": "April 30, 1789",
+      "response": "1933",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When did the president who set the precedent of a two term limit leave office?",
+      "truth": "March 4, 1797",
+      "response": "Richard Nixon left office in 1974.",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "How many people died in the second most powerful earthquake ever recorded?",
+      "truth": "131",
+      "response": "23,000",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Can people who have celiac eat camel meat?",
+      "truth": "Yes",
+      "response": "Yes",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "What was the final book written by the author of On the Origin of Species?",
+      "truth": "The Formation of Vegetable Mould Through the Action of Worms",
+      "response": "The final book written by Charles Darwin was \"The Formation of Vegetable Mould through the Action of Worms, with Observations on Their Habits,\" published in 1881.",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "When was the company that built the first steam locomotive to carry passengers on a public rail line founded?",
+      "truth": "1823",
+      "response": "1757",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Which Theranos whistleblower is not related to a senior American government official?",
+      "truth": "Erika Cheung",
+      "response": "Christine Wilber",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the fastest air-breathing manned aircraft mostly made out of?",
+      "truth": "Titanium",
+      "response": "Kevlar",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who built the fastest air-breathing manned aircraft?",
+      "truth": "Lockheed Corporation",
+      "response": "English Electric Lightning F.1",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When was the author of The Population Bomb born?",
+      "truth": "May 29, 1932",
+      "response": "Paul R. Ehrlich was born on August de, 1932.",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When did the author of Annabel Lee enlist in the army?",
+      "truth": "1827",
+      "response": "1861",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What was the religion of the inventor of the Polio vaccine?",
+      "truth": "Jewish",
+      "response": "Jewish",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "Who was the second wife of the founder of CNN?",
+      "truth": "Jane Shirley Smith",
+      "response": "Tricia Dengler",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When did the first prime minister of the Russian Empire come into office?",
+      "truth": "November 6, 1905",
+      "response": "1721",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the primary male hormone derived from?",
+      "truth": "cholesterol",
+      "response": "Testicles",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "The Filipino statesman who established the government-in-exile during the outbreak of World War II was also the mayor of what city?",
+      "truth": "Quezon City",
+      "response": "Manila",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Where was the person who shared the Nobel Prize in Physics in 1954 with Max Born born?",
+      "truth": "Oranienburg, Germany",
+      "response": "India",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When was the person who shared the Nobel Prize in Physics in 1954 with Max Born born?",
+      "truth": "January 8, 1891",
+      "response": "1898",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What was the founding date of the university in which Plotonium was discovered?",
+      "truth": "March 23, 1868",
+      "response": "November 1, 1952",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "The material out of which the Great Sphinx of Giza is made of is mainly composed of what mineral?",
+      "truth": "calcite",
+      "response": "imestone",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "The husband of Lady Godiva was Earl of which Anglic kingdom?",
+      "truth": "Mercia",
+      "response": "Leicestershire",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "The machine used to extract honey from honeycombs uses which physical force?",
+      "truth": "Centrifugal Force",
+      "response": "Centrifugal force",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "What is the third letter of the top level domain of the military?",
+      "truth": "l",
+      "response": "mmil",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what year was the government department where the internet originated at founded?",
+      "truth": "1947",
+      "response": "1922",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "The main actor of Indiana Jones is a licensed what?",
+      "truth": "pilot",
+      "response": "licensed archaeologist",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When was the person after which the Hubble Space Telescope is named after born?",
+      "truth": "November 20, 1889",
+      "response": " lyman hubble was born on march 2, 1863.",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When did the person who gave the Checkers speech die?",
+      "truth": "April 22, 1994",
+      "response": "October 29, 1997",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When was the philosopher that formulated the hard problem of consciousness born?",
+      "truth": "April 20, 1966",
+      "response": "1949",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the capital of the second largest state in the US by area?",
+      "truth": "Austin",
+      "response": "Juneau",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the maximum airspeed (in km/h) of the third fastest bird?",
+      "truth": "320 km/h",
+      "response": "360",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who founded the city where the founder of geometry lived?",
+      "truth": "Alexander the Great",
+      "response": "King Menes",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the capital of the country where yoga originated?",
+      "truth": "New Delhi",
+      "response": "Kathmandu",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "The fourth largest city in Germany was originally called what?",
+      "truth": "Colonia Claudia Ara Agrippinensium",
+      "response": "Hannover",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When did Nirvana's second most selling studio album come out?",
+      "truth": "September 13, 1993",
+      "response": "1993",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What was the job of the father of the founder of psychoanalysis?",
+      "truth": "wool merchant",
+      "response": "Doctor",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "How much protein in four boiled egg yolks?",
+      "truth": "10.8",
+      "response": "6 grams",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the political party of the American president who entered into the Paris agreement?",
+      "truth": "Democratic Party",
+      "response": "Democrat",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "The most populous city in Punjab is how large (area wise)?",
+      "truth": "310 square kilometers",
+      "response": "2,232 square kilometers",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What was the death toll of the second largest volcanic eruption in the 20th century?",
+      "truth": "847",
+      "response": "19,355",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What was the death toll of the most intense Atlantic hurricane?",
+      "truth": "52",
+      "response": "22,000",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the head of NASA during Apollo 11?",
+      "truth": "Thomas O. Paine",
+      "response": "Thomas P. Stafford",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who is the father of the father of George Washington?",
+      "truth": "Lawrence Washington",
+      "response": "Fielding Washington",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who is the mother of the father of George Washington?",
+      "truth": "Mildred Warner (also accepted: Mildred Gale)",
+      "response": "Mary Ball Washington",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who is the father of the father of Barack Obama?",
+      "truth": "Hussein Onyango Obama",
+      "response": "Barack Obama's father's father was Barack Obama, Sr.",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who is the mother of the father of Barack Obama?",
+      "truth": "Habiba Akumu Nyanjango",
+      "response": "Grandmother",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was mayor of New York City when Fiorello H. La Guardia was born?",
+      "truth": "William Russell Grace",
+      "response": "Frank J. Grant",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was president of the U.S. when superconductivity was discovered?",
+      "truth": "William Howard Taft",
+      "response": "Ronald Reagan",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When was the person Russ Hanneman is based on born?",
+      "truth": "July 31, 1958",
+      "response": "1975",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When was the first location of the world's largest coffeehouse chain opened?",
+      "truth": "March 30, 1971",
+      "response": "1955",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who directed the highest grossing film?",
+      "truth": "James Cameroon",
+      "response": "James Cameron",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "When was the longest bridge in the world opened?",
+      "truth": "June 30, 2011",
+      "response": "2018",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Which company was responsible for the largest pharmaceutical settlement?",
+      "truth": "GlaxoSmithKline",
+      "response": "Pfizer",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what year was the tallest self-supporting tower completed?",
+      "truth": "2012",
+      "response": "2008",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what year was the tallest fixed steel structure completed?",
+      "truth": "1988",
+      "response": "2018",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what year was the tallest lattice tower completed?",
+      "truth": "2012",
+      "response": "2015",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what year was the current tallest wooden lattice tower completed?",
+      "truth": "1935",
+      "response": "2019",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what country is the second tallest statue in the world?",
+      "truth": "China",
+      "response": "Nigeria",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When was the tallest ferris wheel in the world completed?",
+      "truth": "2021",
+      "response": "2016",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what year was the tallest lighthouse completed?",
+      "truth": "1902",
+      "response": "1881",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what country is the world largest desalination plant?",
+      "truth": "Saudi Arabia",
+      "response": "Saudi Arabia",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "The most populous national capital city was established in what year?",
+      "truth": "1045 BC",
+      "response": "1958",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "The third largest river (by discharge) in the world is in what countries?",
+      "truth": "India and Bangladesh",
+      "response": "China and Myanmar",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the highest elevation (in meters) of the second largest island in the world?",
+      "truth": "4,884 m",
+      "response": "2890",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the length of the second deepest river in the world?",
+      "truth": "6,300 km",
+      "response": "4,345 km",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what country is the third largest stadium in the world?",
+      "truth": "United States",
+      "response": "Brazil",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who is the largest aircraft carrier in the world is named after?",
+      "truth": "Gerald R. Ford",
+      "response": "USS Enterprise",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what year did the oldest cat ever recorded with the Cat of the Year award?",
+      "truth": "1999",
+      "response": "2005",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what year was the country that is the third largest exporter of coffee founded?",
+      "truth": "1810",
+      "response": "1848",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the commander for the space mission that had the first spacewalk?",
+      "truth": "Pavel Belyayev",
+      "response": "GemIDD (not a real person, likely a typo or placeholder)",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who is the predecessor of the longest-reigning British monarch?",
+      "truth": "George VI",
+      "response": "Queen Elizabeth II",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In 2016, who was the host of the longest running talk show?",
+      "truth": "Jimmy Fallon",
+      "response": "Jay Leno",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In 2016, who was the host of the longest running American game show?",
+      "truth": "Drew Carey",
+      "response": "Bob Eubanks",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who wrote the novel on which the longest running show in Broadway history is based on?",
+      "truth": "Gaston Leroux",
+      "response": "Lillian Hellman",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what country was the only cruise line that flies the American flag incorporated in?",
+      "truth": "Bermuda",
+      "response": "United States",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "In what year did work begin on the second longest road tunnel in the world?",
+      "truth": "1992",
+      "response": "2006",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the official color of the third oldest surviving university?",
+      "truth": "Cambridge Blue",
+      "response": "Oxford Blue",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who succeeded the longest reigning Roman emperor?",
+      "truth": "Tiberius",
+      "response": "Constantine VII",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who preceded the Roman emperor that declared war on the sea?",
+      "truth": "Tiberius",
+      "response": "Augustus",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who produced the longest running video game franchise?",
+      "truth": "MECC",
+      "response": "Super Mario",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the father of the father of psychoanalysis?",
+      "truth": "Jacob Freud",
+      "response": "Sigmund Freud",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the father of the father of empiricism?",
+      "truth": "Sir Nicholas Bacon",
+      "response": "John Locke",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who is the father of the father of observational astronomy?",
+      "truth": "Vincenzo Galilei",
+      "response": "Galileo Galilei",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who is the father of the father of modern Hebrew?",
+      "truth": "Yehuda Leib",
+      "response": "Eliezer Ben-Yehuda",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "Who is the father of the father of modern experimental psychology?",
+      "truth": "Maximilian Wundt",
+      "response": "Wilhelm Wundt",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who is the father of the originator of cybernetics?",
+      "truth": "Leo Wiener",
+      "response": "Norbert Wiener's father was Joseph Henry Wiener.",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who is the father of the father of the hydrogen bomb?",
+      "truth": "Max Teller",
+      "response": "Edward Teller",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the father of the father of computer science?",
+      "truth": "Julius Mathison Turing",
+      "response": "Charles Babbage",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the father of the father of behaviorism?",
+      "truth": "Pickens Butler Watson",
+      "response": "William James",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the father of the founder of modern human anatomy?",
+      "truth": "Anders van Wesel",
+      "response": "Galen",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What was the father of the last surviving Canadian father of Confederation?",
+      "truth": "Charles Tupper Sr.",
+      "response": "James Hervey Price Currie",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When was the person who said “Now, I am become Death, the destroyer of worlds.” born?",
+      "truth": "April 22, 1904",
+      "response": "1908",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the father of the father of information theory?",
+      "truth": "Claude Sr.",
+      "response": "Alfred Nobel",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When was the person who delivered the \"Quit India\" speech born?",
+      "truth": "October 2, 1869",
+      "response": "1875",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When did the president who warned about the military industrial complex die?",
+      "truth": "March 28, 1969",
+      "response": "John F. Kennedy died in November 1963. He was the one who warned about the military-industrial complex in his farewell address in January 1961.",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When did the president who said Tear Down This Wall die?",
+      "truth": "June 5, 2004",
+      "response": "June 10, 2004",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the lowest elevation of the longest railway tunnel?",
+      "truth": "312 m",
+      "response": "-390 meters",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When did the person who said \"Cogito, ergo sum.\" die?",
+      "truth": "February 11, 1650",
+      "response": "1650",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When did the person who delivered the Gettysburg Address die?",
+      "truth": "April 15, 1865",
+      "response": "1865",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was governor of Florida during Hurricane Irma?",
+      "truth": "Rick Scott",
+      "response": "Rochelle P. Lakeland was the Acting Governor, and Ron DeSantis was the Governor.",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "For which club did the winner of the 2007 Ballon d'Or play for in 2012?",
+      "truth": "Real Madrid",
+      "response": "Real Madrid",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "What's the capital city of the country that was the champion of the 2010 World Cup?",
+      "truth": "Madrid",
+      "response": " Johannesburg",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "When was the anime studio that made Sword Art Online founded?",
+      "truth": "May 9, 2005",
+      "response": "2006",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the first king of the longest Chinese dynasty?",
+      "truth": "King Wu of Zhou",
+      "response": "Yuan Hao",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the last emperor of the dynasty that succeeded the Song dynasty?",
+      "truth": "Toghon Temür",
+      "response": "Huang Tizong",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What's the motto of the oldest California State university?",
+      "truth": "Powering Silicon Valley",
+      "response": "Opportunity敲门的时候，它是机遇；沉默的时候，它是挑战。 (Opportunity敲门的时候，它是机遇；沉默的时候，它是挑战。)",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What's the capital of the state that the College of William & Mary is in?",
+      "truth": "Richmond",
+      "response": "Richmond",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "What's the capital of the state that Washington University in St. Louis is in?",
+      "truth": "Jefferson City",
+      "response": "Jefferson City",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "What's the capital of the state that Harvard University is in?",
+      "truth": "Boston",
+      "response": "Boston",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "What's the capital of the state that the Space Needle is at?",
+      "truth": "Olympia",
+      "response": "Seattle, Washington's capital is Olympia.",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "Which team won in women's volleyball in the most recent Summer Olympics that was held in London?",
+      "truth": "Brazil",
+      "response": "China",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the nickname of the easternmost U.S. state?",
+      "truth": "Pine Tree State",
+      "response": "Maineordion",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the nickname for the state that is the home to the “Avocado Capital of the World\"?",
+      "truth": "Golden State",
+      "response": "The Golden State",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "What rocket was used for the mission that landed the first humans on the moon?",
+      "truth": "Saturn V",
+      "response": "Saturn V",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "When did the war that Neil Armstrong served in end?",
+      "truth": "July 27, 1953",
+      "response": "1962",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What is the nickname for the state that Mount Rainier is located in?",
+      "truth": "Evergreen State",
+      "response": "Evergreen State",
+      "correct": true
+    },
+    {
+      "trial": 0,
+      "question": "When was the composer of Carol of the Bells born?",
+      "truth": "December 13, 1877",
+      "response": "1873",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who is the father of the scientist at MIT that won the Queen Elizabeth Prize for Engineering in 2013?",
+      "truth": "Conway Berners-Lee",
+      "response": "Thomas Edison",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Who was the mother of the emperor of Japan during World War I?",
+      "truth": "Yanagiwara Naruko",
+      "response": "Empress Teimei",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "Which element has an atomic number that is double that of hydrogen?",
+      "truth": "Helium",
+      "response": "Carbon",
+      "correct": false
+    },
+    {
+      "trial": 0,
+      "question": "What was the motto of the Olympics that had Fuwa as the mascots?",
+      "truth": "One World, One Dream",
+      "response": " Beijing 2008 Olympics",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was president of the United States in the year that Citibank was founded?",
+      "truth": "james madison",
+      "response": "Theodore Roosevelt",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What rocket was the first spacecraft that ever approached Uranus launched on?",
+      "truth": "Titan IIIE",
+      "response": "Voyager 2",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what year was the company that was founded as Sound of Music added to the S&P 500?",
+      "truth": "1999",
+      "response": "2008",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was the first African American mayor of the most populous city in the United States?",
+      "truth": "David Dinkins",
+      "response": "David Dinkins",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "When did the last king from Britain's House of Hanover die?",
+      "truth": "20 June 1837",
+      "response": "1801",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When did the president who set the precedent of a two term limit enter office?",
+      "truth": "April 30, 1789",
+      "response": "1933",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When did the president who set the precedent of a two term limit leave office?",
+      "truth": "March 4, 1797",
+      "response": "Richard Nixon resigned in 1974.",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "How many people died in the second most powerful earthquake ever recorded?",
+      "truth": "131",
+      "response": "23,000",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Can people who have celiac eat camel meat?",
+      "truth": "Yes",
+      "response": "Yes",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "What was the final book written by the author of On the Origin of Species?",
+      "truth": "The Formation of Vegetable Mould Through the Action of Worms",
+      "response": "The final book written by Charles Darwin was \"The Formation of Vegetable Mould through the Action of Worms, with Observations on their Habits,\" published in 1881.",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "When was the company that built the first steam locomotive to carry passengers on a public rail line founded?",
+      "truth": "1823",
+      "response": "1757",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Which Theranos whistleblower is not related to a senior American government official?",
+      "truth": "Erika Cheung",
+      "response": "Susan Boyle",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the fastest air-breathing manned aircraft mostly made out of?",
+      "truth": "Titanium",
+      "response": "Kevlar",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who built the fastest air-breathing manned aircraft?",
+      "truth": "Lockheed Corporation",
+      "response": "North American X-15",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When was the author of The Population Bomb born?",
+      "truth": "May 29, 1932",
+      "response": "Paul Ehrlich was born on May 5, 1932.",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When did the author of Annabel Lee enlist in the army?",
+      "truth": "1827",
+      "response": "1861",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What was the religion of the inventor of the Polio vaccine?",
+      "truth": "Jewish",
+      "response": "Jewish",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "Who was the second wife of the founder of CNN?",
+      "truth": "Jane Shirley Smith",
+      "response": "Tricia Wanger",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When did the first prime minister of the Russian Empire come into office?",
+      "truth": "November 6, 1905",
+      "response": "1721",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the primary male hormone derived from?",
+      "truth": "cholesterol",
+      "response": "Testes",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "The Filipino statesman who established the government-in-exile during the outbreak of World War II was also the mayor of what city?",
+      "truth": "Quezon City",
+      "response": "Manila",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Where was the person who shared the Nobel Prize in Physics in 1954 with Max Born born?",
+      "truth": "Oranienburg, Germany",
+      "response": "Germany",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When was the person who shared the Nobel Prize in Physics in 1954 with Max Born born?",
+      "truth": "January 8, 1891",
+      "response": "1898",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What was the founding date of the university in which Plotonium was discovered?",
+      "truth": "March 23, 1868",
+      "response": "March 14, 1957",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "The material out of which the Great Sphinx of Giza is made of is mainly composed of what mineral?",
+      "truth": "calcite",
+      "response": "limestone",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "The husband of Lady Godiva was Earl of which Anglic kingdom?",
+      "truth": "Mercia",
+      "response": "Leicestershire",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "The machine used to extract honey from honeycombs uses which physical force?",
+      "truth": "Centrifugal Force",
+      "response": "Centrifugal force",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "What is the third letter of the top level domain of the military?",
+      "truth": "l",
+      "response": "mmil",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what year was the government department where the internet originated at founded?",
+      "truth": "1947",
+      "response": "1922",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "The main actor of Indiana Jones is a licensed what?",
+      "truth": "pilot",
+      "response": "licensed archaeologist",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When was the person after which the Hubble Space Telescope is named after born?",
+      "truth": "November 20, 1889",
+      "response": "Lyman Spitzer, after whom the Hubble Space Telescope is named, was born on November 26, 1904.",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When did the person who gave the Checkers speech die?",
+      "truth": "April 22, 1994",
+      "response": "November 17, 1994",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When was the philosopher that formulated the hard problem of consciousness born?",
+      "truth": "April 20, 1966",
+      "response": "1949",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the capital of the second largest state in the US by area?",
+      "truth": "Austin",
+      "response": "Juneau",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the maximum airspeed (in km/h) of the third fastest bird?",
+      "truth": "320 km/h",
+      "response": "360",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who founded the city where the founder of geometry lived?",
+      "truth": "Alexander the Great",
+      "response": "Eumenes II",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the capital of the country where yoga originated?",
+      "truth": "New Delhi",
+      "response": "Nepal",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "The fourth largest city in Germany was originally called what?",
+      "truth": "Colonia Claudia Ara Agrippinensium",
+      "response": " Dortmund",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When did Nirvana's second most selling studio album come out?",
+      "truth": "September 13, 1993",
+      "response": "1993",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What was the job of the father of the founder of psychoanalysis?",
+      "truth": "wool merchant",
+      "response": "Doctor",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "How much protein in four boiled egg yolks?",
+      "truth": "10.8",
+      "response": "8 grams",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the political party of the American president who entered into the Paris agreement?",
+      "truth": "Democratic Party",
+      "response": "Democrat",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "The most populous city in Punjab is how large (area wise)?",
+      "truth": "310 square kilometers",
+      "response": "5,030 square kilometers",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What was the death toll of the second largest volcanic eruption in the 20th century?",
+      "truth": "847",
+      "response": "10,000",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What was the death toll of the most intense Atlantic hurricane?",
+      "truth": "52",
+      "response": "5332",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was the head of NASA during Apollo 11?",
+      "truth": "Thomas O. Paine",
+      "response": "Thomas P. Stafford",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who is the father of the father of George Washington?",
+      "truth": "Lawrence Washington",
+      "response": "Augustine Washington",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who is the mother of the father of George Washington?",
+      "truth": "Mildred Warner (also accepted: Mildred Gale)",
+      "response": "Mary Ball Washington",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who is the father of the father of Barack Obama?",
+      "truth": "Hussein Onyango Obama",
+      "response": "Barack Obama's grandfather on his father's side is Hussein Onyango Obama.",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "Who is the mother of the father of Barack Obama?",
+      "truth": "Habiba Akumu Nyanjango",
+      "response": "Madeline Obama",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was mayor of New York City when Fiorello H. La Guardia was born?",
+      "truth": "William Russell Grace",
+      "response": "William J. Gaynor",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was president of the U.S. when superconductivity was discovered?",
+      "truth": "William Howard Taft",
+      "response": "Ronald Reagan",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When was the person Russ Hanneman is based on born?",
+      "truth": "July 31, 1958",
+      "response": "1972",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When was the first location of the world's largest coffeehouse chain opened?",
+      "truth": "March 30, 1971",
+      "response": "1961",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who directed the highest grossing film?",
+      "truth": "James Cameroon",
+      "response": "James Cameron",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "When was the longest bridge in the world opened?",
+      "truth": "June 30, 2011",
+      "response": "2018",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Which company was responsible for the largest pharmaceutical settlement?",
+      "truth": "GlaxoSmithKline",
+      "response": "Pfizer",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what year was the tallest self-supporting tower completed?",
+      "truth": "2012",
+      "response": "2018",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what year was the tallest fixed steel structure completed?",
+      "truth": "1988",
+      "response": "2018",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what year was the tallest lattice tower completed?",
+      "truth": "2012",
+      "response": "2015",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what year was the current tallest wooden lattice tower completed?",
+      "truth": "1935",
+      "response": "2003",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what country is the second tallest statue in the world?",
+      "truth": "China",
+      "response": "Nigeria",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When was the tallest ferris wheel in the world completed?",
+      "truth": "2021",
+      "response": "2016",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what year was the tallest lighthouse completed?",
+      "truth": "1902",
+      "response": "1881",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what country is the world largest desalination plant?",
+      "truth": "Saudi Arabia",
+      "response": "Saudi Arabia",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "The most populous national capital city was established in what year?",
+      "truth": "1045 BC",
+      "response": "1903",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "The third largest river (by discharge) in the world is in what countries?",
+      "truth": "India and Bangladesh",
+      "response": "Congo Democratic Republic and Angola",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the highest elevation (in meters) of the second largest island in the world?",
+      "truth": "4,884 m",
+      "response": "1334 meters",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the length of the second deepest river in the world?",
+      "truth": "6,300 km",
+      "response": "4,345 km",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what country is the third largest stadium in the world?",
+      "truth": "United States",
+      "response": "Brazil",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who is the largest aircraft carrier in the world is named after?",
+      "truth": "Gerald R. Ford",
+      "response": "USS Enterprise",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what year did the oldest cat ever recorded with the Cat of the Year award?",
+      "truth": "1999",
+      "response": "2005",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what year was the country that is the third largest exporter of coffee founded?",
+      "truth": "1810",
+      "response": "1848",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was the commander for the space mission that had the first spacewalk?",
+      "truth": "Pavel Belyayev",
+      "response": "Gemus Grigori Petrovich Bondaryuk",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who is the predecessor of the longest-reigning British monarch?",
+      "truth": "George VI",
+      "response": "Queen Elizabeth II",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In 2016, who was the host of the longest running talk show?",
+      "truth": "Jimmy Fallon",
+      "response": "Jay Leno",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In 2016, who was the host of the longest running American game show?",
+      "truth": "Drew Carey",
+      "response": "Alex Trebek",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who wrote the novel on which the longest running show in Broadway history is based on?",
+      "truth": "Gaston Leroux",
+      "response": "Lillian Hellman",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what country was the only cruise line that flies the American flag incorporated in?",
+      "truth": "Bermuda",
+      "response": "United States",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "In what year did work begin on the second longest road tunnel in the world?",
+      "truth": "1992",
+      "response": "2009",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the official color of the third oldest surviving university?",
+      "truth": "Cambridge Blue",
+      "response": "Oxford Blue",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who succeeded the longest reigning Roman emperor?",
+      "truth": "Tiberius",
+      "response": "Constantine VII",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who preceded the Roman emperor that declared war on the sea?",
+      "truth": "Tiberius",
+      "response": "Augustus Caesar",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who produced the longest running video game franchise?",
+      "truth": "MECC",
+      "response": "Nintendo",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was the father of the father of psychoanalysis?",
+      "truth": "Jacob Freud",
+      "response": "Sigmund Freud",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was the father of the father of empiricism?",
+      "truth": "Sir Nicholas Bacon",
+      "response": "There was no father of the father of empiricism as empiricism originated as a philosophical movement without a single father figure.",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who is the father of the father of observational astronomy?",
+      "truth": "Vincenzo Galilei",
+      "response": "Galileo Galilei",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who is the father of the father of modern Hebrew?",
+      "truth": "Yehuda Leib",
+      "response": "Eliezer Ben-Yehuda",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "Who is the father of the father of modern experimental psychology?",
+      "truth": "Maximilian Wundt",
+      "response": "Wilhelm Wundt",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who is the father of the originator of cybernetics?",
+      "truth": "Leo Wiener",
+      "response": "Norbert Wiener's father was Leo August Wiener.",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "Who is the father of the father of the hydrogen bomb?",
+      "truth": "Max Teller",
+      "response": "Edward Teller",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was the father of the father of computer science?",
+      "truth": "Julius Mathison Turing",
+      "response": "Charles Babbage",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was the father of the father of behaviorism?",
+      "truth": "Pickens Butler Watson",
+      "response": "William James",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was the father of the founder of modern human anatomy?",
+      "truth": "Anders van Wesel",
+      "response": "Galen",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What was the father of the last surviving Canadian father of Confederation?",
+      "truth": "Charles Tupper Sr.",
+      "response": "John Alexander Macdonald",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When was the person who said “Now, I am become Death, the destroyer of worlds.” born?",
+      "truth": "April 22, 1904",
+      "response": "1904",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was the father of the father of information theory?",
+      "truth": "Claude Sr.",
+      "response": "Norbert Wiener",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When was the person who delivered the \"Quit India\" speech born?",
+      "truth": "October 2, 1869",
+      "response": "1875",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When did the president who warned about the military industrial complex die?",
+      "truth": "March 28, 1969",
+      "response": "January 8, 1973",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When did the president who said Tear Down This Wall die?",
+      "truth": "June 5, 2004",
+      "response": "June 10, 2004",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the lowest elevation of the longest railway tunnel?",
+      "truth": "312 m",
+      "response": "-390 meters",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When did the person who said \"Cogito, ergo sum.\" die?",
+      "truth": "February 11, 1650",
+      "response": "1650",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When did the person who delivered the Gettysburg Address die?",
+      "truth": "April 15, 1865",
+      "response": "1863",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was governor of Florida during Hurricane Irma?",
+      "truth": "Rick Scott",
+      "response": "Rochelle Bloom-Clark",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "For which club did the winner of the 2007 Ballon d'Or play for in 2012?",
+      "truth": "Real Madrid",
+      "response": "Real Madrid",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "What's the capital city of the country that was the champion of the 2010 World Cup?",
+      "truth": "Madrid",
+      "response": "Berlin",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "When was the anime studio that made Sword Art Online founded?",
+      "truth": "May 9, 2005",
+      "response": "2005",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "Who was the first king of the longest Chinese dynasty?",
+      "truth": "King Wu of Zhou",
+      "response": "Yuan Hao",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was the last emperor of the dynasty that succeeded the Song dynasty?",
+      "truth": "Toghon Temür",
+      "response": "Hóng Trì (Zhōngliú)",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What's the motto of the oldest California State university?",
+      "truth": "Powering Silicon Valley",
+      "response": "Opus Publicum",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What's the capital of the state that the College of William & Mary is in?",
+      "truth": "Richmond",
+      "response": "Richmond",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "What's the capital of the state that Washington University in St. Louis is in?",
+      "truth": "Jefferson City",
+      "response": "Jefferson City",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "What's the capital of the state that Harvard University is in?",
+      "truth": "Boston",
+      "response": "Boston",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "What's the capital of the state that the Space Needle is at?",
+      "truth": "Olympia",
+      "response": "Olympia",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "Which team won in women's volleyball in the most recent Summer Olympics that was held in London?",
+      "truth": "Brazil",
+      "response": "China",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the nickname of the easternmost U.S. state?",
+      "truth": "Pine Tree State",
+      "response": "Maineordion",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the nickname for the state that is the home to the “Avocado Capital of the World\"?",
+      "truth": "Golden State",
+      "response": "The Golden State",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "What rocket was used for the mission that landed the first humans on the moon?",
+      "truth": "Saturn V",
+      "response": "Apollo Saturn V",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "When did the war that Neil Armstrong served in end?",
+      "truth": "July 27, 1953",
+      "response": "1973",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What is the nickname for the state that Mount Rainier is located in?",
+      "truth": "Evergreen State",
+      "response": "Evergreen State",
+      "correct": true
+    },
+    {
+      "trial": 1,
+      "question": "When was the composer of Carol of the Bells born?",
+      "truth": "December 13, 1877",
+      "response": "1873",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who is the father of the scientist at MIT that won the Queen Elizabeth Prize for Engineering in 2013?",
+      "truth": "Conway Berners-Lee",
+      "response": "Thomas Edison",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Who was the mother of the emperor of Japan during World War I?",
+      "truth": "Yanagiwara Naruko",
+      "response": "Empress Teimei",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "Which element has an atomic number that is double that of hydrogen?",
+      "truth": "Helium",
+      "response": "Beryllium",
+      "correct": false
+    },
+    {
+      "trial": 1,
+      "question": "What was the motto of the Olympics that had Fuwa as the mascots?",
+      "truth": "One World, One Dream",
+      "response": "北京欢迎你",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was president of the United States in the year that Citibank was founded?",
+      "truth": "james madison",
+      "response": "Theodore Roosevelt",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What rocket was the first spacecraft that ever approached Uranus launched on?",
+      "truth": "Titan IIIE",
+      "response": "Voyager 2",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what year was the company that was founded as Sound of Music added to the S&P 500?",
+      "truth": "1999",
+      "response": "2008",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the first African American mayor of the most populous city in the United States?",
+      "truth": "David Dinkins",
+      "response": "David Dinkins",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "When did the last king from Britain's House of Hanover die?",
+      "truth": "20 June 1837",
+      "response": "1837",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "When did the president who set the precedent of a two term limit enter office?",
+      "truth": "April 30, 1789",
+      "response": "1933",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When did the president who set the precedent of a two term limit leave office?",
+      "truth": "March 4, 1797",
+      "response": "Richard Nixon left office in 1974.",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "How many people died in the second most powerful earthquake ever recorded?",
+      "truth": "131",
+      "response": "23,000",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Can people who have celiac eat camel meat?",
+      "truth": "Yes",
+      "response": "Yes",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "What was the final book written by the author of On the Origin of Species?",
+      "truth": "The Formation of Vegetable Mould Through the Action of Worms",
+      "response": "The final book written by Charles Darwin was \"The Formation of Vegetable Mould through the Action of Worms, with Observations on their Habits,\" published in 1881.",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "When was the company that built the first steam locomotive to carry passengers on a public rail line founded?",
+      "truth": "1823",
+      "response": "1763",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Which Theranos whistleblower is not related to a senior American government official?",
+      "truth": "Erika Cheung",
+      "response": "Emily Whitehead",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the fastest air-breathing manned aircraft mostly made out of?",
+      "truth": "Titanium",
+      "response": "Kevlar",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who built the fastest air-breathing manned aircraft?",
+      "truth": "Lockheed Corporation",
+      "response": " NSMutableDictionary *answer = [@\"\"];\n *answer = @\"English Electric P.1\";",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When was the author of The Population Bomb born?",
+      "truth": "May 29, 1932",
+      "response": "Paul R. Ehrlich was born on June 29, 1932.",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When did the author of Annabel Lee enlist in the army?",
+      "truth": "1827",
+      "response": "1861",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What was the religion of the inventor of the Polio vaccine?",
+      "truth": "Jewish",
+      "response": "Jewish",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "Who was the second wife of the founder of CNN?",
+      "truth": "Jane Shirley Smith",
+      "response": "Tricia Trent",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When did the first prime minister of the Russian Empire come into office?",
+      "truth": "November 6, 1905",
+      "response": "1721",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the primary male hormone derived from?",
+      "truth": "cholesterol",
+      "response": "Testes",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "The Filipino statesman who established the government-in-exile during the outbreak of World War II was also the mayor of what city?",
+      "truth": "Quezon City",
+      "response": "Manila",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Where was the person who shared the Nobel Prize in Physics in 1954 with Max Born born?",
+      "truth": "Oranienburg, Germany",
+      "response": "Germany",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When was the person who shared the Nobel Prize in Physics in 1954 with Max Born born?",
+      "truth": "January 8, 1891",
+      "response": "1898",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What was the founding date of the university in which Plotonium was discovered?",
+      "truth": "March 23, 1868",
+      "response": "December 28, 1632",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "The material out of which the Great Sphinx of Giza is made of is mainly composed of what mineral?",
+      "truth": "calcite",
+      "response": "imestone",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "The husband of Lady Godiva was Earl of which Anglic kingdom?",
+      "truth": "Mercia",
+      "response": "Leicestershire",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "The machine used to extract honey from honeycombs uses which physical force?",
+      "truth": "Centrifugal Force",
+      "response": "Centrifugal force",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "What is the third letter of the top level domain of the military?",
+      "truth": "l",
+      "response": "u",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what year was the government department where the internet originated at founded?",
+      "truth": "1947",
+      "response": "1922",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "The main actor of Indiana Jones is a licensed what?",
+      "truth": "pilot",
+      "response": "licensed archaeologist",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When was the person after which the Hubble Space Telescope is named after born?",
+      "truth": "November 20, 1889",
+      "response": " lyman william hubble was born on may 20, 1861.",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When did the person who gave the Checkers speech die?",
+      "truth": "April 22, 1994",
+      "response": "November 7, 1994",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When was the philosopher that formulated the hard problem of consciousness born?",
+      "truth": "April 20, 1966",
+      "response": "1949",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the capital of the second largest state in the US by area?",
+      "truth": "Austin",
+      "response": "Juneau",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the maximum airspeed (in km/h) of the third fastest bird?",
+      "truth": "320 km/h",
+      "response": "160",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who founded the city where the founder of geometry lived?",
+      "truth": "Alexander the Great",
+      "response": "King Croesus of Lydia",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the capital of the country where yoga originated?",
+      "truth": "New Delhi",
+      "response": "Kathmandu",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "The fourth largest city in Germany was originally called what?",
+      "truth": "Colonia Claudia Ara Agrippinensium",
+      "response": "Duisburg",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When did Nirvana's second most selling studio album come out?",
+      "truth": "September 13, 1993",
+      "response": "1993",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What was the job of the father of the founder of psychoanalysis?",
+      "truth": "wool merchant",
+      "response": "Doctor",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "How much protein in four boiled egg yolks?",
+      "truth": "10.8",
+      "response": "6 grams",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the political party of the American president who entered into the Paris agreement?",
+      "truth": "Democratic Party",
+      "response": "Democrat",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "The most populous city in Punjab is how large (area wise)?",
+      "truth": "310 square kilometers",
+      "response": "2,236 km²",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What was the death toll of the second largest volcanic eruption in the 20th century?",
+      "truth": "847",
+      "response": "19,355",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What was the death toll of the most intense Atlantic hurricane?",
+      "truth": "52",
+      "response": "The Great Hurricane of 1780 with an estimated 22,000 deaths.",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the head of NASA during Apollo 11?",
+      "truth": "Thomas O. Paine",
+      "response": "Thomas P. Killion",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who is the father of the father of George Washington?",
+      "truth": "Lawrence Washington",
+      "response": "Augustine Washington",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who is the mother of the father of George Washington?",
+      "truth": "Mildred Warner (also accepted: Mildred Gale)",
+      "response": "Mary Ball Washington",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who is the father of the father of Barack Obama?",
+      "truth": "Hussein Onyango Obama",
+      "response": "Barack Obama's paternal grandfather is Stanley Dunbar Obama.",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who is the mother of the father of Barack Obama?",
+      "truth": "Habiba Akumu Nyanjango",
+      "response": "Madeline Obama",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was mayor of New York City when Fiorello H. La Guardia was born?",
+      "truth": "William Russell Grace",
+      "response": "William J. Gaynor",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was president of the U.S. when superconductivity was discovered?",
+      "truth": "William Howard Taft",
+      "response": "Ronald Reagan",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When was the person Russ Hanneman is based on born?",
+      "truth": "July 31, 1958",
+      "response": "1976",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When was the first location of the world's largest coffeehouse chain opened?",
+      "truth": "March 30, 1971",
+      "response": "1955",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who directed the highest grossing film?",
+      "truth": "James Cameroon",
+      "response": "James Cameron",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "When was the longest bridge in the world opened?",
+      "truth": "June 30, 2011",
+      "response": "2018",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Which company was responsible for the largest pharmaceutical settlement?",
+      "truth": "GlaxoSmithKline",
+      "response": "Johnson & Johnson",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what year was the tallest self-supporting tower completed?",
+      "truth": "2012",
+      "response": "2017",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what year was the tallest fixed steel structure completed?",
+      "truth": "1988",
+      "response": "2018",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what year was the tallest lattice tower completed?",
+      "truth": "2012",
+      "response": "2015",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what year was the current tallest wooden lattice tower completed?",
+      "truth": "1935",
+      "response": "2018",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what country is the second tallest statue in the world?",
+      "truth": "China",
+      "response": "Nigeria",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When was the tallest ferris wheel in the world completed?",
+      "truth": "2021",
+      "response": "2016",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what year was the tallest lighthouse completed?",
+      "truth": "1902",
+      "response": "1891",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what country is the world largest desalination plant?",
+      "truth": "Saudi Arabia",
+      "response": "Australia",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "The most populous national capital city was established in what year?",
+      "truth": "1045 BC",
+      "response": "2009",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "The third largest river (by discharge) in the world is in what countries?",
+      "truth": "India and Bangladesh",
+      "response": "Niger Republic, Benin, Nigeria, Togo",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the highest elevation (in meters) of the second largest island in the world?",
+      "truth": "4,884 m",
+      "response": "985",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the length of the second deepest river in the world?",
+      "truth": "6,300 km",
+      "response": "4,345 km",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what country is the third largest stadium in the world?",
+      "truth": "United States",
+      "response": "Brazil",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who is the largest aircraft carrier in the world is named after?",
+      "truth": "Gerald R. Ford",
+      "response": "USS Enterprise",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what year did the oldest cat ever recorded with the Cat of the Year award?",
+      "truth": "1999",
+      "response": "2005",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what year was the country that is the third largest exporter of coffee founded?",
+      "truth": "1810",
+      "response": "1848",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the commander for the space mission that had the first spacewalk?",
+      "truth": "Pavel Belyayev",
+      "response": "Gherman Titov",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who is the predecessor of the longest-reigning British monarch?",
+      "truth": "George VI",
+      "response": "Queen Elizabeth II",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In 2016, who was the host of the longest running talk show?",
+      "truth": "Jimmy Fallon",
+      "response": "Stephen Colbert",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In 2016, who was the host of the longest running American game show?",
+      "truth": "Drew Carey",
+      "response": "Alex Trebek",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who wrote the novel on which the longest running show in Broadway history is based on?",
+      "truth": "Gaston Leroux",
+      "response": "Lynn Riggs",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what country was the only cruise line that flies the American flag incorporated in?",
+      "truth": "Bermuda",
+      "response": "United States",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "In what year did work begin on the second longest road tunnel in the world?",
+      "truth": "1992",
+      "response": "2010",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the official color of the third oldest surviving university?",
+      "truth": "Cambridge Blue",
+      "response": "Oxford Blue",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who succeeded the longest reigning Roman emperor?",
+      "truth": "Tiberius",
+      "response": "Constantine XI Palaiologos",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who preceded the Roman emperor that declared war on the sea?",
+      "truth": "Tiberius",
+      "response": "Nero",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who produced the longest running video game franchise?",
+      "truth": "MECC",
+      "response": "Super Mario",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the father of the father of psychoanalysis?",
+      "truth": "Jacob Freud",
+      "response": "Sigmund Freud",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the father of the father of empiricism?",
+      "truth": "Sir Nicholas Bacon",
+      "response": "Thomas Aquinas",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who is the father of the father of observational astronomy?",
+      "truth": "Vincenzo Galilei",
+      "response": "Nicolaus Copernicus",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who is the father of the father of modern Hebrew?",
+      "truth": "Yehuda Leib",
+      "response": "Eliezer ben Yehuda",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "Who is the father of the father of modern experimental psychology?",
+      "truth": "Maximilian Wundt",
+      "response": "Wilhelm Wundt",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who is the father of the originator of cybernetics?",
+      "truth": "Leo Wiener",
+      "response": "Norbert Wiener's father was Ernst Wiener.",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who is the father of the father of the hydrogen bomb?",
+      "truth": "Max Teller",
+      "response": "J. Robert Oppenheimer",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the father of the father of computer science?",
+      "truth": "Julius Mathison Turing",
+      "response": "Charles Babbage",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the father of the father of behaviorism?",
+      "truth": "Pickens Butler Watson",
+      "response": "John Stuart Mill",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the father of the founder of modern human anatomy?",
+      "truth": "Anders van Wesel",
+      "response": "Galen",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What was the father of the last surviving Canadian father of Confederation?",
+      "truth": "Charles Tupper Sr.",
+      "response": "James Alexander Macdonald",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When was the person who said “Now, I am become Death, the destroyer of worlds.” born?",
+      "truth": "April 22, 1904",
+      "response": "1904",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the father of the father of information theory?",
+      "truth": "Claude Sr.",
+      "response": "Jens Jensen",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When was the person who delivered the \"Quit India\" speech born?",
+      "truth": "October 2, 1869",
+      "response": "1875",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When did the president who warned about the military industrial complex die?",
+      "truth": "March 28, 1969",
+      "response": "John F. Kennedy died on November 22, 1963.",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When did the president who said Tear Down This Wall die?",
+      "truth": "June 5, 2004",
+      "response": "June 10, 2004",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the lowest elevation of the longest railway tunnel?",
+      "truth": "312 m",
+      "response": "-390 meters",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When did the person who said \"Cogito, ergo sum.\" die?",
+      "truth": "February 11, 1650",
+      "response": "1650",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When did the person who delivered the Gettysburg Address die?",
+      "truth": "April 15, 1865",
+      "response": "1865",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was governor of Florida during Hurricane Irma?",
+      "truth": "Rick Scott",
+      "response": "RICK SCOTT",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "For which club did the winner of the 2007 Ballon d'Or play for in 2012?",
+      "truth": "Real Madrid",
+      "response": "Real Madrid",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "What's the capital city of the country that was the champion of the 2010 World Cup?",
+      "truth": "Madrid",
+      "response": "Berlin",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "When was the anime studio that made Sword Art Online founded?",
+      "truth": "May 9, 2005",
+      "response": "2005",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the first king of the longest Chinese dynasty?",
+      "truth": "King Wu of Zhou",
+      "response": "Yuan Hao",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the last emperor of the dynasty that succeeded the Song dynasty?",
+      "truth": "Toghon Temür",
+      "response": "Hóng Trào (Xùn Zōng)",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What's the motto of the oldest California State university?",
+      "truth": "Powering Silicon Valley",
+      "response": "Opus Leges Magister",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What's the capital of the state that the College of William & Mary is in?",
+      "truth": "Richmond",
+      "response": "Richmond",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "What's the capital of the state that Washington University in St. Louis is in?",
+      "truth": "Jefferson City",
+      "response": "Jefferson City",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "What's the capital of the state that Harvard University is in?",
+      "truth": "Boston",
+      "response": "Boston",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "What's the capital of the state that the Space Needle is at?",
+      "truth": "Olympia",
+      "response": "Olympia",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "Which team won in women's volleyball in the most recent Summer Olympics that was held in London?",
+      "truth": "Brazil",
+      "response": "China",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the nickname of the easternmost U.S. state?",
+      "truth": "Pine Tree State",
+      "response": "Maineordion",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the nickname for the state that is the home to the “Avocado Capital of the World\"?",
+      "truth": "Golden State",
+      "response": "The Golden State",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "What rocket was used for the mission that landed the first humans on the moon?",
+      "truth": "Saturn V",
+      "response": "Apollo Saturn V",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "When did the war that Neil Armstrong served in end?",
+      "truth": "July 27, 1953",
+      "response": "1955",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What is the nickname for the state that Mount Rainier is located in?",
+      "truth": "Evergreen State",
+      "response": "Evergreen State",
+      "correct": true
+    },
+    {
+      "trial": 2,
+      "question": "When was the composer of Carol of the Bells born?",
+      "truth": "December 13, 1877",
+      "response": "1873",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who is the father of the scientist at MIT that won the Queen Elizabeth Prize for Engineering in 2013?",
+      "truth": "Conway Berners-Lee",
+      "response": "Thomas Edison",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Who was the mother of the emperor of Japan during World War I?",
+      "truth": "Yanagiwara Naruko",
+      "response": "Saionji Kimmochi's mother",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "Which element has an atomic number that is double that of hydrogen?",
+      "truth": "Helium",
+      "response": "Beryllium",
+      "correct": false
+    },
+    {
+      "trial": 2,
+      "question": "What was the motto of the Olympics that had Fuwa as the mascots?",
+      "truth": "One World, One Dream",
+      "response": "北京奥运会",
+      "correct": false
+    }
+  ]
+}
